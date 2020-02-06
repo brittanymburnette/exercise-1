@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--!DOCTYPE html-->
 
 <html>
 
@@ -26,5 +26,9 @@ Our products</p>
 <li>Commodore Amiga</li>
 <li>IBM PC</li>
 </ul>
+
+</body>
+
+</html>
 
 
