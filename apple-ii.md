@@ -14,7 +14,7 @@
 [Navigation]
 <ul>
 <li><a href="index.html">Home</a></li>
-<li>Apple II</li>
+ <li><strong>Apple II</strong></li>
 <li><a href="commodore-64.md">Commodore 64</a></li>
 <li><a href="trs-80.md">TRS-80</a></li>
 </ul>
