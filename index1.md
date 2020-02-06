@@ -4,7 +4,8 @@
 
   <head>
      <meta charset="utf-8">
-     <title>Flynns Retro Computers</title>
+     <!--<title>Flynns Retro Computers</title>-->
+  <h1>Flynns Retro Computers</h1>
   <head>
 
 <body>
