@@ -19,7 +19,7 @@
 <li><a href="trs-80.md">TRS-80</a></li>
 </ul>
 
-<img src="commodore-64.jpg" alt=commodore>
+<img src="commodore-64.jpg" alt="commodore">
 <h6>Commodore 64. <em>Photo By: Evan Amos (Public Domain)</em></h6>
 
 <p>The <strong><em>Commodore 64</strong></em>, also known as the <strong><em>C64</strong></em> or the <strong><em>CBM 64</strong></em>, is an 8-bit home computer introduced in January 1982 by Commodore International. It has been listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 10 and 17 million units.</p>
