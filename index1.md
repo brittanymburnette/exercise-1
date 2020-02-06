@@ -14,9 +14,9 @@ Our products</p>
 
 <h2>Microcomputers</h2>
 <ul>
-<li>apple ii</li>
-<li>commodore</li>
-<li>TRS 80</li>
+<li><a href="apple-ii.html">Apple II</a></li>
+<li><a href="commodore-64.html">Commodore-64</a></li>
+<li><a href="trs-80.html">TRS-80</a></li>
 </ul>
 
 <h2>Accessories</h2>
@@ -26,3 +26,5 @@ Our products</p>
 <li>Commodore Amiga</li>
 <li>IBM PC</li>
 </ul>
+
+
