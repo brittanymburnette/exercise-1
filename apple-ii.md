@@ -11,7 +11,7 @@
 
 <h2>Apple II</h2>
 
-[Navigation]
+<!--[Navigation]-->
 <ul>
 <li><a href="index.html">Home</a></li>
  <li><strong>Apple II</strong></li>
