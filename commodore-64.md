@@ -11,7 +11,7 @@
 
 <h2>Commodore 64</h2>
 
-[Navigation]
+<!--[Navigation]-->
 <ul>
 <li><a href="index.md">Home</a></li>
 <li><a href="apple-ii.md">Apple II</a></li>
