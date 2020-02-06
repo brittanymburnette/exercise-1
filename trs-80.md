@@ -4,14 +4,14 @@
  
   <head>
      <meta charset="utf-8">
-     <title>Flynn's Retro Computers</title>
+     <!--<title>Flynn's Retro Computers</title>-->
   <head>
 
   <body>
 
 <h2>TRS 80</h2>
 
-[Navigation]
+<!--[Navigation]-->
 <ul>
 <li><a href="index.md">Home</a></li>
 <li><a href="apple-ii.md">Apple II</a></li>
